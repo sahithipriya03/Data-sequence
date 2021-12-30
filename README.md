@@ -1,2 +1,2 @@
 # Data-sequence
-Hello!
+Hello! i jst wanna try a new repositary....
